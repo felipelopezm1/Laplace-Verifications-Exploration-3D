@@ -25,8 +25,6 @@ This “**Basenji Edition**” uses a color palette and typography inspired by t
 - Soft pink and yellow highlights  
 - Font: **Basenji Variable** (if available; otherwise falls back to DejaVu Sans)
 
-> 💡 You can include your font file (`BasenjiVariable.ttf`) in the same folder as the notebook to activate the custom typography.
-
 ---
 
 ## ⚙️ Environment Setup
